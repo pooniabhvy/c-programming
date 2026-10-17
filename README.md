@@ -42,6 +42,10 @@ A collection of small C programs I have written while learning programming funda
 - `array_sort.c` — puts array elements in order. It practices comparing and rearranging values.
 - `array_largest_function.c` — finds the largest value in an array using a separate function. It practices passing an array and its size to a function and returning a result.
 
+### Strings
+
+- `string_length.c` — counts the characters in a line of text using a function. It practices character arrays, loops, and passing a string to a function.
+
 ## Compile and run
 
 Compile a program with GCC (replace the filename with the program you want to run):
