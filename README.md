@@ -40,6 +40,7 @@ A collection of small C programs I have written while learning programming funda
 - `array_even_odd.c` — examines array values to identify even and odd elements. It practices combining array traversal with the remainder operator.
 - `array_reverse.c` — displays or rearranges array elements in reverse order. It practices working with array indices from opposite ends.
 - `array_sort.c` — puts array elements in order. It practices comparing and rearranging values.
+- `array_largest_function.c` — finds the largest value in an array using a separate function. It practices passing an array and its size to a function and returning a result.
 
 ## Compile and run
 
